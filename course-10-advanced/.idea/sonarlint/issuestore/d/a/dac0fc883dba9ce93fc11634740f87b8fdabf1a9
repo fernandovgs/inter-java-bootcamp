@@ -1,0 +1,53 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(÷Æªèşÿÿÿÿ8‰şÇîú.
+U	java:S106K"9Replace this use of System.out or System.err by a logger.(åµ­Ö8¸ƒêîú.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(èÂš•øÿÿÿÿ8‰şÇîú.
+d
+java:S1144¤"ARemove this unused private "connectAndPrintURLJavaOracle" method.(ôï’Áÿÿÿÿÿ8Ğ¸‘ïú.
+U	java:S106¯"9Replace this use of System.out or System.err by a logger.(®”øS8·©äîú.
+V	java:S106˜"9Replace this use of System.out or System.err by a logger.(ø¸¹ş8êÔûîú.
+V	java:S106‹"9Replace this use of System.out or System.err by a logger.(åµ­Ö8êÔûîú.
+c
+java:S2142_"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8Ò‚ïîú.
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(ø¸¹ş8ÓÜëîú.
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8¨à”îú.
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¨à”îú.
+]	java:S125"<This block of commented-out lines of code should be removed.(ÖÈ¶·ÿÿÿÿÿ8Ğ¸‘ïú.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(Š¿ó‚8‰şÇîú.
+c
+java:S2142J"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8ñóêîú.
+U	java:S106v"9Replace this use of System.out or System.err by a logger.(Š¿ó‚8êÔûîú.
+d
+java:S2142—"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8êÔûîú.
+d
+java:S2142Š"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8êÔûîú.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(‰©Ş ùÿÿÿÿ8êÔûîú.
+S
+java:S1128"6Remove this unused import 'java.io.InputStreamReader'.(ãˆÎÉ8¨à”îú.
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(´¢æÒúÿÿÿÿ8ÖŞîú.
+k
+java:S11926"NDefine a constant instead of duplicating this literal "Status code: " 3 times.(Š¿ó‚8êÔûîú.
+Z	java:S106^"9Replace this use of System.out or System.err by a logger.(‰©Ş ùÿÿÿÿ8·©äîú.
+Z	java:S106w"9Replace this use of System.out or System.err by a logger.(èÂš•øÿÿÿÿ8êÔûîú.
+c
+java:S2142W"FEither re-interrupt this method or rethrow the "InterruptedException".(üŸ´Â8Şêáîú.
+[	java:S106‘"9Replace this use of System.out or System.err by a logger.(´¢æÒúÿÿÿÿ8êÔûîú.
+C
+java:S1110^"!Remove these useless parentheses.(‰©Ş ùÿÿÿÿ8çïäîú.
+K
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8¨à”îú.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ô¦íÑûÿÿÿÿ8²–ªîú.
+d
+java:S2142Ÿ"FEither re-interrupt this method or rethrow the "InterruptedException".(ò¶È8êÔûîú.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ó‹Ÿæ8ÿ£Ùîú.
+J
+java:S1604"(Make this anonymous inner class a lambda(ø±¶˜úÿÿÿÿ8Áª¨îú.
+D
+java:S1110"!Remove these useless parentheses.(‰©Ş ùÿÿÿÿ8êÔûîú.
+V	java:S106®"9Replace this use of System.out or System.err by a logger.(Š¿ó‚8×¢Ûîú.
+V	java:S106‰"9Replace this use of System.out or System.err by a logger.(ó‹Ÿæ8êÔûîú.
+Y
+java:S1144$"<Remove this unused private "connectAkamaiHttpClient" method.(êş Ñ8Ğ¸‘ïú.
+Z	java:S106e"9Replace this use of System.out or System.err by a logger.(‡úüÿÿÿÿ8êÔûîú.

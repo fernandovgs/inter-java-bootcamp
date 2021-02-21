@@ -1,0 +1,20 @@
+
+0
+java:S1220""Move this file to a named package.
+g
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(º™Ú7
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(äÃ¥‹ùÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(­ˆúÿøÿÿÿÿ
+H
+java:S1135&"2Complete the task associated to this TODO comment.(‡ñÅ¼
+N	java:S1060"9Replace this use of System.out or System.err by a logger.(»–…
+o
+java:S2293B"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¡ş°
+O
+java:S1610M"4Convert the abstract class "Room" into an interface.(áéªÔûÿÿÿÿ
+N	java:S106\"9Replace this use of System.out or System.err by a logger.(§Ÿß
+7
+java:S1116_"Remove this empty statement.(ôŸìúÿÿÿÿ
+S	java:S106b"9Replace this use of System.out or System.err by a logger.(­Âï¾ùÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(„ƒ·Óøÿÿÿÿ

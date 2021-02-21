@@ -1,0 +1,12 @@
+[submodule "course-3-linux/course-3-linux"]
+	path = course-3-linux/course-3-linux
+	url = https://github.com/fernandovgs/inter-java-bootcamp.git
+[submodule "course-3-linux/course-4-linux"]
+	path = course-3-linux/course-4-linux
+	url = https://github.com/fernandovgs/inter-java-bootcamp.git
+[submodule "course-3-linux/course-7-basic-java"]
+	path = course-3-linux/course-7-basic-java
+	url = https://github.com/fernandovgs/inter-java-bootcamp.git
+[submodule "course-3-linux/course-9-collections"]
+	path = course-3-linux/course-9-collections
+	url = https://github.com/fernandovgs/inter-java-bootcamp.git
