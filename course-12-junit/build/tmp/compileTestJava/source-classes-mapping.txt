@@ -1,2 +1,6 @@
 digital/innovation/one/CalculatorTest.java
  digital.innovation.one.CalculatorTest
+digital/innovation/one/AssertTest.java
+ digital.innovation.one.AssertTest
+digital/innovation/one/RuleTest.java
+ digital.innovation.one.RuleTest
