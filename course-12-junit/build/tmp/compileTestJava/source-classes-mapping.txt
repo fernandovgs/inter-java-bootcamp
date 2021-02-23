@@ -2,7 +2,7 @@ digital/innovation/one/RuleTest.java
  digital.innovation.one.RuleTest
 digital/innovation/one/AssertTest.java
  digital.innovation.one.AssertTest
-digital/innovation/one/CalculatorTest.java
- digital.innovation.one.CalculatorTest
 digital/innovation/one/ExceptionTest.java
  digital.innovation.one.ExceptionTest
+digital/innovation/one/CalculatorTest.java
+ digital.innovation.one.CalculatorTest
