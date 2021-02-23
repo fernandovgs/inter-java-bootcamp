@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="digital.innovation.one.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-23T01:42:11" hostname="goodsprings-manjaro" time="0.017">
+  <properties/>
+  <testcase name="sumTest()" classname="digital.innovation.one.CalculatorTest" time="0.017"/>
+  <system-out><![CDATA[16
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
