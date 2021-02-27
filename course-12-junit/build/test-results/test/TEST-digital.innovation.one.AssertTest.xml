@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="digital.innovation.one.AssertTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-23T03:20:54" hostname="goodsprings-manjaro" time="0.01">
+<testsuite name="digital.innovation.one.AssertTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-02-27T17:41:26" hostname="goodsprings-manjaro" time="0.008">
   <properties/>
   <testcase name="testAssertNotNull()" classname="digital.innovation.one.AssertTest" time="0.0"/>
   <testcase name="testAssertNotSame()" classname="digital.innovation.one.AssertTest" time="0.001"/>
-  <testcase name="testAssertFalse()" classname="digital.innovation.one.AssertTest" time="0.002"/>
-  <testcase name="testAssertEquals()" classname="digital.innovation.one.AssertTest" time="0.0"/>
+  <testcase name="testAssertFalse()" classname="digital.innovation.one.AssertTest" time="0.001"/>
+  <testcase name="testAssertEquals()" classname="digital.innovation.one.AssertTest" time="0.001"/>
   <testcase name="testAssertArrayEquals()" classname="digital.innovation.one.AssertTest" time="0.002"/>
   <testcase name="testAssertSame()" classname="digital.innovation.one.AssertTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>

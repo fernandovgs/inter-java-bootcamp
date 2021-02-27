@@ -1,7 +1,6 @@
 package digital.innovation.one;
 
 import org.hamcrest.Matchers;
-import org.hamcrest.beans.HasProperty;
 import org.hamcrest.object.HasToString;
 import org.junit.jupiter.api.Test;
 
@@ -11,7 +10,7 @@ import java.util.List;
 import static org.hamcrest.MatcherAssert.*;
 
 
-public class MatcherTest {
+class MatcherTest {
     @Test
     void checkToString() {
         Person person = new Person("Fernando", "Gianini");
@@ -22,7 +21,7 @@ public class MatcherTest {
     @Test
     void checkIfPropertyExists() {
         Person person = new Person("Fernando", "Gianini");
-        assertThat(person, HasProperty.hasProperty("name"));
+        assertThat(person, Matchers.hasProperty("name"));
     }
 
     @Test
