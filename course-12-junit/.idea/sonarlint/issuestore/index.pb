@@ -19,3 +19,9 @@ e
 5src/test/java/digital/innovation/one/AssertJTest.java,1/8/1877713a6bd6b9cb92a876a064939af25e392f9d
 e
 5src/test/java/digital/innovation/one/MatcherTest.java,5/0/50791b281ba3ebd7e603c232ad8ab6ce587cc3a2
+=
+lombok.config,8/2/823fe80d2650ec87c2614800da17ca3a55af96a9
+g
+7src/main/java/digital/innovation/one/NewCalculator.java,8/6/86db603883193bd00169831e06dc8fb4ba45f72f
+k
+;src/test/java/digital/innovation/one/NewCalculatorTest.java,3/5/356cee6ecef97ff7421434a514897cb3222d122c
